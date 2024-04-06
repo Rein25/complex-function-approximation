@@ -53,7 +53,7 @@ Contributions to the project are welcome! Please feel free to fork the repositor
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+No license, do whatever you want with it.
 
 ## Acknowledgments
 
